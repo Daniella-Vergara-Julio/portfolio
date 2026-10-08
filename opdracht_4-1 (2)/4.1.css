@@ -1,0 +1,25 @@
+body {
+    font-family: "ftltlt", sans-serif;
+    background-color: #e9dada;
+    margin: 0;
+    padding: 0;
+}
+h2 { 
+    font-size: 56px;
+    color: #9000ff;
+    font-weight: bold;
+}
+p.section-paragraph:first-of-type {
+    color: #0d0303;
+    font-size: 28px;
+    font-weight: bold;
+}
+p.section-paragraph {
+    color: #0d0303;
+    font-size: 28px;
+    font-weight: normal;
+}
+a {
+    color: #7272dd;
+   text-decoration: none;
+}
